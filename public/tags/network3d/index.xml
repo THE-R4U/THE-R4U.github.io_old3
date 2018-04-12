@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network3d on THE-R</title>
+    <link>/tags/network3d/</link>
+    <description>Recent content in Network3d on THE-R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/network3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[R 패키지] 3D 네트워크 시각화 - network3d</title>
+      <link>/post/rpackage-network3d/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rpackage-network3d/</guid>
+      <description>R에는 ggraph, igraph와 같은 우수한 네트워크 시각화 라이브러리가 많이 있습니다. 이 라이브러리의 주요 문제점은 2 차원 시각화 (또는 igraph의 경우 정적 3D)로 제한된다는 것입니다. 경험상 수많은 네트워크 데이터에서 3 차원을 추가하면 훨씬 더 명확한 패턴이 나타납니다.
+network3d는htmlwidgets 패키지를 사용하여 만든 작은 R 패키지로, 네트워크 데이터를 노드와 에지 데이터 프레임 형태로 받아 물리 시뮬레이션을 수행하여 3 차원에서 최적의 레이아웃을 결정합니다.
+설치방법
+network3d 패키지는 아직 Cran에 등록되어 있지 않으므로, devtools 패키지를 사용하여 아래와 같이 설치해야합니다.</description>
+    </item>
+    
+  </channel>
+</rss>

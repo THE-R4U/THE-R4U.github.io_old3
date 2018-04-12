@@ -6,10 +6,19 @@
     <description>Recent content in Tags on THE-R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network3d</title>
+      <link>/tags/network3d/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/network3d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot</title>
@@ -30,11 +39,29 @@
     </item>
     
     <item>
+      <title>R 패키지</title>
+      <link>/tags/r-%ED%8C%A8%ED%82%A4%EC%A7%80/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-%ED%8C%A8%ED%82%A4%EC%A7%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>시각화</title>
+      <link>/tags/%EC%8B%9C%EA%B0%81%ED%99%94/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%EC%8B%9C%EA%B0%81%ED%99%94/</guid>
       <description></description>
     </item>
     

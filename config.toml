@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     authorbox = true
     post_navigation = true
     postSections = ["post", "R 패키지"]
-    dateformat = "yyyy-mm-dd" # change the format of dates
+    #dateformat = "12-04-2018" # change the format of dates
         
 [Params.widgets]
     search = true # Enable "Search" widget
