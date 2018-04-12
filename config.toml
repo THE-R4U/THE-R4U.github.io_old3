@@ -1,0 +1,53 @@
+baseurl = "/"
+title = "THE-R"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[Author]
+    name = "THE-R"
+    bio = "THE-R's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+    avatar = "img/avatar.png"
+
+[[menu.main]]
+    name = "R 패키지"
+    url = "/R 패키지/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/THE-R4U"
+[[menu.main]]
+    name = "페이스북"
+    url = "https://fb.me/THER4U"
+[[menu.main]]
+    name = "트위터"
+    url = "https://twitter.com/The_R_Blog"
+
+[Params]
+    subtitle = "데이터분석가를 위한 R 황금레시피" # Subtitle of your site
+    description = " R 데이터분석에 필요한 패키지 활용, 교육정보 제공" # Description of your site
+    opengraph = true
+    readmore = true # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post", "R 패키지"]
+    dateformat = "yyyy-mm-dd" # change the format of dates
+        
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_facebook = "jmhome@naver.com"
+    social_twitter = "The_R_blog"
+    social_linkedin = "irichgreen"
+    social_github = "the-r4u"
+    social_email = "ceo@the-r.kr"
+    social_google_plus = "profileid"
