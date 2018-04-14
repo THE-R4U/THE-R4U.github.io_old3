@@ -98,5 +98,5 @@ network3d(data$vertices, data$edges,
 [network3d 패키지 Github](https://github.com/nstrayer/network3d)
 
 
-[출처](http://livefreeordichotomize.com/2018/04/09/network3d---a-3d-network-visualization-and-layout-library/)
+[출처: network3d - a 3D network visualization and layout library](http://livefreeordichotomize.com/2018/04/09/network3d---a-3d-network-visualization-and-layout-library/)
 
